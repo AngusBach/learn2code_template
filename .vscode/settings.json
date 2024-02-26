@@ -7,6 +7,7 @@
     },
     "clang-format.executable": "clang-format-16",
     "clang-tidy.executable": "clang-tidy-16",
+    "cmake.options.statusBarVisibility": "compact",
     "clang-tidy.fixOnSave": true,
     "clang-tidy.lintOnSave": true,
     "clang-tidy.compilerArgs": [
