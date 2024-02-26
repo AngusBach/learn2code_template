@@ -1,0 +1,3 @@
+/workspaces/learn2code_template/Debugging/build/CMakeFiles/debugging_example_exec.dir
+/workspaces/learn2code_template/Debugging/build/CMakeFiles/edit_cache.dir
+/workspaces/learn2code_template/Debugging/build/CMakeFiles/rebuild_cache.dir

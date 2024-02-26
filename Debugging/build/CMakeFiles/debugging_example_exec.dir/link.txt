@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/debugging_example_exec.dir/debugging.c.o -o debugging_example_exec 
